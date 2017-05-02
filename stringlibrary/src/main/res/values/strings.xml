@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">String Library</string>
+    <string name="lib_text">New text</string>
+</resources>
