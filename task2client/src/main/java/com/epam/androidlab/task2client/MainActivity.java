@@ -19,8 +19,13 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         emailEdit = (EditText) findViewById(R.id.email);
+        emailEdit.setOnClickListener(new EditTextListener(emailEdit));
+
         subjectEdit = (EditText) findViewById(R.id.subject);
+        subjectEdit.setOnClickListener(new EditTextListener(subjectEdit));
+
         textEdit = (EditText) findViewById(R.id.text);
+        textEdit.setOnClickListener(new EditTextListener(textEdit));
 
         Button button = (Button) findViewById(R.id.button);
         button.setOnClickListener(new View.OnClickListener() {
