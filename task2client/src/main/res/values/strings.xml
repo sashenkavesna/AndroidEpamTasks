@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">"Task2 First "</string>
+    <string name="label">"Use activity"</string>
+    <string name="description">"Use activity from other module"</string>
+</resources>

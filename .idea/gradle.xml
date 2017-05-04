@@ -12,6 +12,8 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/stringlibrary" />
             <option value="$PROJECT_DIR$/task1" />
+            <option value="$PROJECT_DIR$/task2client" />
+            <option value="$PROJECT_DIR$/task2server" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

@@ -1,1 +1,1 @@
-include ':app', ':task1', ':stringlibrary'
+include ':app', ':task1', ':stringlibrary', ':task2client', ':task2server'
